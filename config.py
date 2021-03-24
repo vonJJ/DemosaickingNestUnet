@@ -39,7 +39,7 @@ class Config:
     Test_DataSet =  DataSets_Name[0]
 
     TRAIN_PARAM_ROOT = './TrainingResult'
-    TEST_PARAM_ROOT = './pretrained_model/params_e88_convert.pth'
+    TEST_PARAM_ROOT = './pretrained_model/params_e123.pth'
 
     OUTPIC_FILE = './TestingResult'
 
